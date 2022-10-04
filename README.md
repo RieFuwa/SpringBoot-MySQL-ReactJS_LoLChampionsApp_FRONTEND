@@ -1,3 +1,13 @@
+## What the app looks like
+![1](https://user-images.githubusercontent.com/71210936/193801845-047bae50-63fa-49cb-b28b-2158c80aae44.JPG)
+## Add Champion
+![4](https://user-images.githubusercontent.com/71210936/193801905-16de9c2d-1764-4a5f-9160-e4d9174eae8d.JPG)
+## Update Champion
+![5](https://user-images.githubusercontent.com/71210936/193801963-b1bcc6f7-92c7-4a06-8ae1-da49b6276f04.JPG)
+## Filter 
+![2](https://user-images.githubusercontent.com/71210936/193802012-33c5d129-0cc5-485b-8ce5-0907776ae384.JPG)
+![3](https://user-images.githubusercontent.com/71210936/193802025-afc410ec-a7dd-4f8f-a5d4-81075caf7e93.JPG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
